@@ -1,0 +1,55 @@
+From root@Ubuntu-Mak  Fri Jun  9 13:47:01 2023
+Return-Path: <root@Ubuntu-Mak>
+X-Original-To: root@localhost
+Delivered-To: root@localhost
+Received: by Ubuntu-Mak (Postfix, from userid 0)
+        id 9E763529F8B; Fri,  9 Jun 2023 13:47:01 +0300 (MSK)
+Subject: CheckLog Data
+To: <root@localhost>
+User-Agent: mail (GNU Mailutils 3.14)
+Date: Fri,  9 Jun 2023 13:47:01 +0300
+Message-Id: <20230609104701.9E763529F8B@Ubuntu-Mak>
+From: root <root@Ubuntu-Mak>
+
+Данные за период: 27/May/2023:00:23:01-27/May/2023:23:00:12
+
+Список IP адресов:
+Количество запросов: 170 IP:217.66.158.27
+Количество запросов: 59 IP:85.17.14.46
+Количество запросов: 41 IP:217.66.156.136
+Количество запросов: 13 IP:109.237.97.180
+Количество запросов: 11 IP:170.64.163.102
+Количество запросов: 11 IP:109.237.98.226
+Количество запросов: 9 IP:185.180.143.50
+Количество запросов: 7 IP:159.203.22.229
+Количество запросов: 6 IP:165.22.178.154
+
+Список запрашиваемых URL:
+Количество запросов: 63 URL:/
+Количество запросов: 17 URL:400
+Количество запросов: 11 URL:/login
+Количество запросов: 7 URL:/s/iTGcjjYRn4526Gx/authenticate/showShare
+Количество запросов: 7 URL:/s/iTGcjjYRn4526Gx
+Количество запросов: 7 URL:/favicon.ico
+Количество запросов: 7 URL:/.env
+Количество запросов: 7 URL:/core/js/oc.js?v=b7edf75b
+Количество запросов: 6 URL:/public.php/webdav/
+Количество запросов: 5 URL:/core/img/app-background.jpg
+Количество запросов: 5 URL:/.aws/credentials
+Количество запросов: 5 URL:/apps/theming/image/logo?v=2
+
+Список кодов URL:
+Список всех кодов Http ответа: 302 Code:200
+Список всех кодов Http ответа: 54 Code:302
+Список всех кодов Http ответа: 32 Code:404
+Список всех кодов Http ответа: 16 Code:400
+Список всех кодов Http ответа: 10 Code:207
+Список всех кодов Http ответа: 9 Code:157
+Список всех кодов Http ответа: 7 Code:303
+Список всех кодов Http ответа: 1 Code:405
+Список всех кодов Http ответа: 1 Code:301
+
+Ошибки веб сервера:
+Список кодов ошибок: 32 Code:404
+Список кодов ошибок: 16 Code:400
+Список кодов ошибок: 1 Code:405
